@@ -1,8 +1,8 @@
 # log-errors
-
-## PLEASE
-Run npm install
+## Clone and configure
 ```
+git clone https://github.com/leodiazdev/log-errors.git
+cd log-errors
 npm install
 ```
 
